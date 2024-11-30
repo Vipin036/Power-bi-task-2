@@ -1,13 +1,6 @@
-"region","category","total_sales","total_profit","avg_profit_margin"
-"West","Home Appliances","139588.8","40218.547","27"
-"East","Clothing","115509","27688.588","26"
-"West","Clothing","147798.1","41685.523","26"
-"North","Home Appliances","140229.05","36539.113","26"
-"North","Electronics","100355.48","25319.91","26"
-"South","Clothing","126698.06","30076.498","25"
-"East","Home Appliances","148368.36","38093.883","25"
-"South","Electronics","81996.74","22835.82","25"
-"East","Electronics","82260.664","18823.832","24"
-"West","Electronics","99774.23","23396.432","24"
-"South","Home Appliances","137188.53","32022.924","24"
-"North","Clothing","160531.84","31887.115","22"
+Row Labels,Sum of total_sales,Sum of total_profit
+East,346138.024,84606.303
+North,401116.37,93746.138
+South,345883.33,84935.242
+West,387161.13,105300.502
+Grand Total,1480298.854,368588.185

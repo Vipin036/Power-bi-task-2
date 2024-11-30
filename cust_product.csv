@@ -1,0 +1,101 @@
+﻿ProductID,ProductName,Category,Subcategory,Price
+1,Product 1,Home Appliances,Kitchen,46.3
+2,Product 2,Electronics,Men,318.43
+3,Product 3,Electronics,Kitchen,36.27
+4,Product 4,Electronics,Mobile,83.11
+5,Product 5,Clothing,Kitchen,285.79
+6,Product 6,Home Appliances,Mobile,158.88
+7,Product 7,Electronics,Mobile,497.02
+8,Product 8,Home Appliances,Mobile,68.04
+9,Product 9,Electronics,Kitchen,384.58
+10,Product 10,Clothing,Men,307.1
+11,Product 11,Home Appliances,Men,397.46
+12,Product 12,Clothing,Kitchen,120.59
+13,Product 13,Clothing,Mobile,266.06
+14,Product 14,Electronics,Kitchen,230.75
+15,Product 15,Home Appliances,Men,226.93
+16,Product 16,Home Appliances,Kitchen,431.48
+17,Product 17,Home Appliances,Kitchen,495.12
+18,Product 18,Home Appliances,Men,159.64
+19,Product 19,Electronics,Men,314.3
+20,Product 20,Electronics,Mobile,308.72
+21,Product 21,Clothing,Mobile,372.64
+22,Product 22,Electronics,Men,474.32
+23,Product 23,Home Appliances,Mobile,111.82
+24,Product 24,Electronics,Men,113.4
+25,Product 25,Clothing,Kitchen,333.61
+26,Product 26,Home Appliances,Mobile,86.96
+27,Product 27,Home Appliances,Men,95.17
+28,Product 28,Clothing,Kitchen,46.78
+29,Product 29,Clothing,Kitchen,11.31
+30,Product 30,Home Appliances,Men,230.75
+31,Product 31,Electronics,Men,300.97
+32,Product 32,Electronics,Kitchen,152.72
+33,Product 33,Home Appliances,Kitchen,123.42
+34,Product 34,Home Appliances,Men,356.41
+35,Product 35,Home Appliances,Men,354.46
+36,Product 36,Electronics,Kitchen,232.48
+37,Product 37,Electronics,Kitchen,346.82
+38,Product 38,Home Appliances,Men,462.72
+39,Product 39,Clothing,Men,396.04
+40,Product 40,Home Appliances,Kitchen,316.28
+41,Product 41,Home Appliances,Men,333.98
+42,Product 42,Electronics,Men,467.5
+43,Product 43,Home Appliances,Men,218.32
+44,Product 44,Electronics,Men,276.84
+45,Product 45,Clothing,Mobile,327.34
+46,Product 46,Home Appliances,Mobile,455.12
+47,Product 47,Clothing,Kitchen,415.05
+48,Product 48,Home Appliances,Mobile,44.99
+49,Product 49,Clothing,Men,91.3
+50,Product 50,Electronics,Mobile,160.73
+51,Product 51,Home Appliances,Kitchen,376.99
+52,Product 52,Home Appliances,Kitchen,288.91
+53,Product 53,Clothing,Kitchen,151.42
+54,Product 54,Electronics,Mobile,70.93
+55,Product 55,Clothing,Mobile,347.45
+56,Product 56,Clothing,Mobile,352.87
+57,Product 57,Electronics,Kitchen,471.91
+58,Product 58,Clothing,Men,255.23
+59,Product 59,Clothing,Men,251.96
+60,Product 60,Home Appliances,Kitchen,49.42
+61,Product 61,Clothing,Kitchen,29.53
+62,Product 62,Home Appliances,Kitchen,221.69
+63,Product 63,Electronics,Kitchen,167.94
+64,Product 64,Clothing,Men,132.68
+65,Product 65,Electronics,Mobile,54.75
+66,Product 66,Home Appliances,Mobile,481.34
+67,Product 67,Home Appliances,Men,419.62
+68,Product 68,Home Appliances,Mobile,291.85
+69,Product 69,Clothing,Men,475.89
+70,Product 70,Home Appliances,Mobile,499.79
+71,Product 71,Home Appliances,Men,339.42
+72,Product 72,Clothing,Mobile,142.06
+73,Product 73,Clothing,Kitchen,29.71
+74,Product 74,Clothing,Kitchen,380.57
+75,Product 75,Home Appliances,Mobile,240.55
+76,Product 76,Home Appliances,Men,329.24
+77,Product 77,Clothing,Mobile,458.88
+78,Product 78,Clothing,Mobile,98.93
+79,Product 79,Electronics,Kitchen,296.81
+80,Product 80,Electronics,Men,321.04
+81,Product 81,Clothing,Kitchen,250.95
+82,Product 82,Clothing,Mobile,54.71
+83,Product 83,Electronics,Kitchen,180.5
+84,Product 84,Clothing,Men,173.32
+85,Product 85,Home Appliances,Mobile,338.37
+86,Product 86,Home Appliances,Mobile,430.29
+87,Product 87,Home Appliances,Kitchen,171.6
+88,Product 88,Clothing,Men,349.9
+89,Product 89,Clothing,Men,151.23
+90,Product 90,Electronics,Men,473.14
+91,Product 91,Clothing,Men,408.65
+92,Product 92,Clothing,Men,279.55
+93,Product 93,Electronics,Mobile,232.86
+94,Product 94,Clothing,Mobile,164.11
+95,Product 95,Electronics,Men,168.4
+96,Product 96,Clothing,Men,485.39
+97,Product 97,Clothing,Mobile,208.05
+98,Product 98,Clothing,Mobile,262.15
+99,Product 99,Clothing,Men,494.18
+100,Product 100,Home Appliances,Men,332.25
